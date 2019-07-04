@@ -1,0 +1,24 @@
+$ git status
+
+S git status --short
+
+$ git add GitCourseraNotes.txt
+
+$ git help init
+
+$ git init -h
+
+# set user name and email
+$ git config --global user.name "g_pipis"
+$ git config --global user.email "sergiopit5@hotmail.com"
+
+
+$ git config user.emnail
+$ git config user.name
+
+$ git config --global core.editor nano
+
+$ git add filename.txt
+$ git add folder
+
+$ git add . ### fol all files
