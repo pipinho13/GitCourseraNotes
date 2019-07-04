@@ -22,3 +22,5 @@ $ git add filename.txt
 $ git add folder
 
 $ git add . ### fol all files
+
+$ git commit -m "initial commit"
