@@ -24,3 +24,9 @@ $ git add folder
 $ git add . ### fol all files
 
 $ git commit -m "initial commit"
+
+$ git log --oneline
+
+
+$ git remote add origin https://github.com/pipinho13/GitCourseraNotes.git
+$ git push -u origin master
